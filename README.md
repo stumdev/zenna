@@ -1,26 +1,45 @@
 # ZENNA Natural Candles
 
-Site institucional responsivo desenvolvido para a marca ZENNA Natural Candles.
+> Site institucional responsivo para a marca ZENNA Natural Candles.
 
-O projeto apresenta uma estrutura completa para uma marca de velas naturais, com seções para apresentação da empresa, produtos, cuidados com a vela, aromas, eventos e contato. Os textos foram mantidos como placeholders para facilitar a substituição pelo conteúdo final.
+| Campo | Informação |
+| --- | --- |
+| Projeto | Site institucional da ZENNA Natural Candles |
+| Tecnologias | HTML, CSS e JavaScript |
+| Responsável pelo desenvolvimento | [stumdev](https://github.com/stumdev) |
+| Conteúdo | Textos e contatos de demonstração, a substituir |
+| Licença | Não especificada |
+
+## Sobre
+
+O site apresenta a marca, produtos, cuidados com velas, aromas, eventos e contato. Os textos e dados de contato presentes no projeto são placeholders e precisam ser substituídos pelas informações oficiais antes da publicação.
+
+## Recursos
+
+- Layout responsivo e navegação com menus.
+- Seções de apresentação da marca, produtos, cuidados, aromas e eventos.
+- Interações de interface e animações de entrada.
+- Imagens e identidade visual organizadas em `assets-site/`.
 
 ## Estrutura
 
-- `index.html`: estrutura principal do site.
-- `styles.css`: estilos visuais, responsividade, menus e animações.
-- `script.js`: interações do menu, dropdowns e efeitos de entrada.
-- `assets-site/`: imagens, logo e recursos visuais utilizados no site.
+- `index.html`: conteúdo e estrutura das páginas.
+- `styles.css`: estilos, responsividade e animações.
+- `script.js`: menu, dropdowns e efeitos de entrada.
+- `assets-site/`: logo, imagens e demais recursos visuais.
 
 ## Como visualizar
 
-Abra o arquivo `index.html` diretamente no navegador.
-
-Também é possível usar um servidor local dentro da pasta do projeto:
+Abra `index.html` no navegador ou inicie um servidor local na pasta do projeto:
 
 ```bash
 npx serve .
 ```
 
-## Observações
+## Antes de publicar
 
-Os links de contato e textos institucionais estão como placeholders e devem ser substituídos pelas informações oficiais da marca antes da publicação final.
+Substitua os textos de demonstração, os links de contato, os dados dos produtos e demais informações institucionais pelo conteúdo aprovado pela ZENNA. Confira também as imagens e seus direitos de uso.
+
+## Créditos e licença
+
+Desenvolvimento do site: **stumdev**. A marca, sua identidade e o conteúdo institucional pertencem à ZENNA Natural Candles e aos respectivos titulares. O repositório não especifica uma licença para o código ou para os recursos visuais.
